@@ -1,6 +1,6 @@
 # EPL Player Data Collection and Analysis (2024–2025)
 
-## Giới thiệu
+## Giới thiệu dự án
 1. Bài tập lớn được thực hiện trong khuôn khổ môn học Lập trình Python tại Học viện Công nghệ Bưu chính Viễn Thông (PTIT).
 2. Mục tiêu của dự án là xây dựng một quy trình hoàn chỉnh bằng Python để:
 - Thu thập dữ liệu cầu thủ tại giải Ngoại hạng Anh mùa giải 2024–2025
